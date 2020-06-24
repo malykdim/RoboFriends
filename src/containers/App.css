@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'EC_Tunnel Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EC_Tunnel Regular'), url('EcTunnelRegular-Jxe7.woff') format('woff');
+}
+
+h1 {
+    font-family: 'EC_Tunnel Regular';
+    font-weight: normal;
+    letter-spacing: 1.5rem;
+    padding: 3rem;
+    /* color: #0ccac4; */
+    color: rgba(254,252,234,1);
+}
